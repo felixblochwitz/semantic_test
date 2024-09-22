@@ -42,8 +42,13 @@ class MyAngularParserOptions(ParserOptions):
 
     allowed_tags: Tuple[str, ...] = (
         "patch",
+        "Patch",
+        "PATCH",
         "minor",
+        "Minor",
+        "MINOR",
         "major",
+        "Major",
         "MAJOR",
     )
     major_tags: Tuple[str, ...] = ("major", "MAJOR", )
