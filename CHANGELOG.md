@@ -1,18 +1,32 @@
 # CHANGELOG
 
+## v6.0.0 (2024-09-22)
+
+### Major (breaking) changes
+
+* MAJOR: now??? ([`6518ad0`](https://github.com/felixblochwitz/semantic_test/commit/6518ad026ad1b72a574aff46745959e18625cfbc))
+
+* MAJOR: now??? ([`639b468`](https://github.com/felixblochwitz/semantic_test/commit/639b46817dc47fa02a6f3feb9f2314a7a701f8fa))
+
+* MAJOR: change ([`f103bcf`](https://github.com/felixblochwitz/semantic_test/commit/f103bcf6fbf68f2e02f10eb3644700f8d45726d5))
+
 ## v5.0.0 (2024-09-22)
 
 ### Major (breaking) changes
 
 * major: change this shit ([`afec463`](https://github.com/felixblochwitz/semantic_test/commit/afec463b1191cd779329eab39ebf362e2ba5ecd6))
 
+* MAJOR: change parser completely ([`3f17ab2`](https://github.com/felixblochwitz/semantic_test/commit/3f17ab21f92a9696f9aa6281cb1e007de2e968e1))
+
 ### None
 
 * Major: change parser ([`a339c43`](https://github.com/felixblochwitz/semantic_test/commit/a339c43fa083b55a169c68b8d54a56d15121e580))
 
-* MAJOR: change parser completely ([`3f17ab2`](https://github.com/felixblochwitz/semantic_test/commit/3f17ab21f92a9696f9aa6281cb1e007de2e968e1))
-
 ## v4.2.0 (2024-09-22)
+
+### Major (breaking) changes
+
+* MAJOR: this is it ([`cfa69c6`](https://github.com/felixblochwitz/semantic_test/commit/cfa69c607124f724d858e5c517cdaaa4740a91ae))
 
 ### Minor (non-breaking) changes
 
@@ -22,21 +36,19 @@
 
 * MINOR: updating parser ([`cf764ec`](https://github.com/felixblochwitz/semantic_test/commit/cf764ecb3953286f9400fe5ae0656e41346fca44))
 
-* MAJOR: this is it ([`cfa69c6`](https://github.com/felixblochwitz/semantic_test/commit/cfa69c607124f724d858e5c517cdaaa4740a91ae))
-
 ## v4.1.0 (2024-09-22)
 
-### Minor (non-breaking) changes
-
-* minor: this is it ([`dd82496`](https://github.com/felixblochwitz/semantic_test/commit/dd8249629f74b638d6b30f3257b6f130900439f6))
-
-### None
+### Major (breaking) changes
 
 * MAJOR: this is it ([`9c91420`](https://github.com/felixblochwitz/semantic_test/commit/9c9142030ce1b4442bbe3fb6c8e3489fc48eb560))
 
 * MAJOR: this is it ([`d8d221b`](https://github.com/felixblochwitz/semantic_test/commit/d8d221bf6d2a5eddaa8391fdbbee9eef0a2a3ec4))
 
 * MAJOR: this is it ([`8999376`](https://github.com/felixblochwitz/semantic_test/commit/899937631261613aa44f4a1cbb959bc18ae8da25))
+
+### Minor (non-breaking) changes
+
+* minor: this is it ([`dd82496`](https://github.com/felixblochwitz/semantic_test/commit/dd8249629f74b638d6b30f3257b6f130900439f6))
 
 ### Unknown
 
@@ -47,8 +59,6 @@
 ### Major (breaking) changes
 
 * major: breaks everything ([`5ea4ae8`](https://github.com/felixblochwitz/semantic_test/commit/5ea4ae8acb6728cc06ec9ebb291b1ea8c8b74855))
-
-### None
 
 * MAJOR: this is it ([`02decfe`](https://github.com/felixblochwitz/semantic_test/commit/02decfe6fd910ef9cb6a36c4cf71d7db59363da9))
 
@@ -61,8 +71,6 @@
 * major: breaks everything ([`1881641`](https://github.com/felixblochwitz/semantic_test/commit/1881641a81195ebd03b994907f2405373378f9ca))
 
 * major: breaks everything ([`284086d`](https://github.com/felixblochwitz/semantic_test/commit/284086d2ef9b8ca11df213dcb10ce645b584cb83))
-
-### None
 
 * MAJOR: does this the trikc? ([`4e37f02`](https://github.com/felixblochwitz/semantic_test/commit/4e37f02f93202064a95099bf85d0d358f62a28e7))
 
