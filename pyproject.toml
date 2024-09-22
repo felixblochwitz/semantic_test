@@ -40,7 +40,7 @@ default = "semantic-release <semantic-release>"
 
 [tool.semantic_release.commit_parser_options]
 allowed_tags = ["major", "minor", "patch"]
-major_tags = ["major", "MAJOR"]
+major_tags = ["major", "MAJOR", "Major"]
 minor_tags = ["minor"]
 patch_tags = ["patch"]
 default_bump_level = 0
