@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v7.0.0 (2024-09-22)
+
+### Major (breaking) changes
+
+* MAJOR: now??? ([`d832184`](https://github.com/felixblochwitz/semantic_test/commit/d83218416403ec10d216bc18badba344d4e7b021))
+
+* MAJOR: now??? ([`98ef4aa`](https://github.com/felixblochwitz/semantic_test/commit/98ef4aa2ec47f98cf72614086e787034aa9018de))
+
+* MAJOR: now??? ([`ae3525d`](https://github.com/felixblochwitz/semantic_test/commit/ae3525dc451783be889ae50cbf9d0fd382b35765))
+
 ## v6.0.0 (2024-09-22)
 
 ### Major (breaking) changes
