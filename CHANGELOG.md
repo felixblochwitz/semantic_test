@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v4.0.0 (2024-09-22)
+
+### Major
+
+* major: breaks everything ([`5ea4ae8`](https://github.com/felixblochwitz/semantic_test/commit/5ea4ae8acb6728cc06ec9ebb291b1ea8c8b74855))
+
+### Unknown
+
+* MAJOR: this is it ([`02decfe`](https://github.com/felixblochwitz/semantic_test/commit/02decfe6fd910ef9cb6a36c4cf71d7db59363da9))
+
+* MAJOR: this is it ([`88ab3f9`](https://github.com/felixblochwitz/semantic_test/commit/88ab3f9638a57a40411559e347b77fda89c58574))
+
 ## v3.0.0 (2024-09-22)
 
 ### Major
