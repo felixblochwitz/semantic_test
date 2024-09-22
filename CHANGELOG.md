@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## v4.1.0 (2024-09-22)
+
+### Minor
+
+* minor: this is it ([`dd82496`](https://github.com/felixblochwitz/semantic_test/commit/dd8249629f74b638d6b30f3257b6f130900439f6))
+
+### Unknown
+
+* [minor]: this is it ([`74fe2b9`](https://github.com/felixblochwitz/semantic_test/commit/74fe2b9c350e4fff20e4a7fe64198fd44e7bf1bb))
+
+* MAJOR: this is it ([`9c91420`](https://github.com/felixblochwitz/semantic_test/commit/9c9142030ce1b4442bbe3fb6c8e3489fc48eb560))
+
+* MAJOR: this is it ([`d8d221b`](https://github.com/felixblochwitz/semantic_test/commit/d8d221bf6d2a5eddaa8391fdbbee9eef0a2a3ec4))
+
+* MAJOR: this is it ([`8999376`](https://github.com/felixblochwitz/semantic_test/commit/899937631261613aa44f4a1cbb959bc18ae8da25))
+
 ## v4.0.0 (2024-09-22)
 
 ### Major
