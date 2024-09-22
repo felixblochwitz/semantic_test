@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.1.2 (2024-09-22)
+
+### Fuck
+
+* fuck: this ([`4cdf118`](https://github.com/felixblochwitz/semantic_test/commit/4cdf1180ac61e8a86003e931c5852a81ba0c7017))
+
 ## v1.1.1 (2024-09-22)
 
 ### Fix
