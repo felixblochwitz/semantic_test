@@ -54,7 +54,7 @@ allowed_tags = ["major", "MAJOR", "minor", "MINOR", "patch", "PATCH"]
 major_tags = ["major", "MAJOR"]
 minor_tags = ["minor", "MINOR"]
 patch_tags = ["patch", "PATCH"]
-default_bump_level = 0
+#default_bump_level = 0
 
 [tool.semantic_release.remote]
 name = "origin"
