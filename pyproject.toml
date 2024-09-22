@@ -4,7 +4,7 @@ description = "Will follow shortly"
 readme = "README.md"
 authors = [{name = "felixblochwitz", email = "felix.blochwitz@gmail.com"}]
 requires-python = ">=3.12"
-version = "0.0.0"
+version = "1.0.0"
 
 [tool.semantic_release]
 assets = []
