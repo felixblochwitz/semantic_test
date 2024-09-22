@@ -32,6 +32,7 @@ LONG_TYPE_NAMES = {
     "patch": "patch",
     "minor": "minor",
     "major": "major",
+    "MAJOR": "major",
 }
 
 
