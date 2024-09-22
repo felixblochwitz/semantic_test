@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v4.2.0 (2024-09-22)
+
+### Minor
+
+* minor: remove repo_dir ([`c21593f`](https://github.com/felixblochwitz/semantic_test/commit/c21593f2bf7297879f1d0946fad8b5eda1a2c4dd))
+
+### Unknown
+
+* MINOR: updating parser ([`cf764ec`](https://github.com/felixblochwitz/semantic_test/commit/cf764ecb3953286f9400fe5ae0656e41346fca44))
+
+* MAJOR: this is it ([`cfa69c6`](https://github.com/felixblochwitz/semantic_test/commit/cfa69c607124f724d858e5c517cdaaa4740a91ae))
+
 ## v4.1.0 (2024-09-22)
 
 ### Minor
