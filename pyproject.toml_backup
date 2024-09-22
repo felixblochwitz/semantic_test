@@ -50,7 +50,7 @@ env = "GIT_COMMIT_AUTHOR"
 default = "semantic-release <semantic-release>"
 
 [tool.semantic_release.commit_parser_options]
-allowed_tags = ["major", "MAJOR", "minor", "MINOR", "patch", "PATCH"]
+allowed_tags = ["major", "Major", "MAJOR", "minor", "Minor", MINOR", "patch", "Patch", "PATCH"]
 major_tags = ["major", "MAJOR"]
 minor_tags = ["minor", "MINOR"]
 patch_tags = ["patch", "PATCH"]
