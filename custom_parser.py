@@ -32,7 +32,6 @@ LONG_TYPE_NAMES = {
     "patch": "patch",
     "minor": "minor",
     "major": "major",
-    "MAJOR": "major",
 }
 
 
@@ -46,7 +45,7 @@ class MyAngularParserOptions(ParserOptions):
         "major",
         "MAJOR",
     )
-    major_tags: Tuple[str, ...] = ("major", "MAJOR",)
+    major_tags: Tuple[str, ...] = ("major", )
     minor_tags: Tuple[str, ...] = ("minor",)
     patch_tags: Tuple[str, ...] = ("patch",)
     default_bump_level: LevelBump = LevelBump.NO_RELEASE
