@@ -1,28 +1,32 @@
 # CHANGELOG
 
+## v2.0.0 (2024-09-22)
+
+### Breaking
+
+* API: change it ([`ae973db`](https://github.com/felixblochwitz/semantic_test/commit/ae973db086835ef517f9825b2c2f15bb4dd6f602))
+
 ## v1.1.2 (2024-09-22)
 
-### Fuck
+### Unknown
 
 * fuck: this ([`4cdf118`](https://github.com/felixblochwitz/semantic_test/commit/4cdf1180ac61e8a86003e931c5852a81ba0c7017))
 
 ## v1.1.1 (2024-09-22)
 
-### Fix
-
-* fix: this ([`4bbcdbb`](https://github.com/felixblochwitz/semantic_test/commit/4bbcdbbe2a3c3200578ef223314e21af9372f916))
-
-### Fuck
-
-* fuck: this ([`9978d78`](https://github.com/felixblochwitz/semantic_test/commit/9978d78f1d03d98ef238f1a8d8cc67fe7df6722e))
-
-### Unknown
+### Breaking
 
 * API bah ([`3d0b0a4`](https://github.com/felixblochwitz/semantic_test/commit/3d0b0a4d547ef0d0cd63959aa4f0c9814b4d9e53))
 
 * API: fuck this ([`cb51a19`](https://github.com/felixblochwitz/semantic_test/commit/cb51a19cced60a28e42356d197b71bc49d045767))
 
 * API this is it ([`0de4a73`](https://github.com/felixblochwitz/semantic_test/commit/0de4a7384a95533952ad30bb58c9d4c157f48b2d))
+
+### Unknown
+
+* fix: this ([`4bbcdbb`](https://github.com/felixblochwitz/semantic_test/commit/4bbcdbbe2a3c3200578ef223314e21af9372f916))
+
+* fuck: this ([`9978d78`](https://github.com/felixblochwitz/semantic_test/commit/9978d78f1d03d98ef238f1a8d8cc67fe7df6722e))
 
 * feat! this plasdkj ([`e179356`](https://github.com/felixblochwitz/semantic_test/commit/e1793569daba4e977e1dfcf735ba6ce9a9544352))
 
