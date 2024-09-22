@@ -41,9 +41,9 @@ default = "semantic-release <semantic-release>"
 [tool.semantic_release.commit_parser_options]
 allowed_tags = [
    "API", "DEP", "ENH", "REV", "BUG", "MAINT", "BENCH",
-   "BLD", "DEV", "DOC", "STY", "TST", "REL", "FEAT", "TEST",
+   "BLD", "DEV", "DOC", "STY", "TST", "REL", "FEAT", "TEST", "MAJOR"
 ]
-major_tags = ["API",]
+major_tags = ["API", "MAJOR"]
 minor_tags = ["DEP", "DEV", "ENH", "REV", "FEAT"]
 patch_tags = ["BLD", "BUG", "MAINT"]
 
