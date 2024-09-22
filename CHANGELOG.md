@@ -1,10 +1,36 @@
 # CHANGELOG
 
+## v1.1.1 (2024-09-22)
+
+### Fix
+
+* fix: this ([`4bbcdbb`](https://github.com/felixblochwitz/semantic_test/commit/4bbcdbbe2a3c3200578ef223314e21af9372f916))
+
+### Fuck
+
+* fuck: this ([`9978d78`](https://github.com/felixblochwitz/semantic_test/commit/9978d78f1d03d98ef238f1a8d8cc67fe7df6722e))
+
+### Unknown
+
+* API bah ([`3d0b0a4`](https://github.com/felixblochwitz/semantic_test/commit/3d0b0a4d547ef0d0cd63959aa4f0c9814b4d9e53))
+
+* API: fuck this ([`cb51a19`](https://github.com/felixblochwitz/semantic_test/commit/cb51a19cced60a28e42356d197b71bc49d045767))
+
+* API this is it ([`0de4a73`](https://github.com/felixblochwitz/semantic_test/commit/0de4a7384a95533952ad30bb58c9d4c157f48b2d))
+
+* feat! this plasdkj ([`e179356`](https://github.com/felixblochwitz/semantic_test/commit/e1793569daba4e977e1dfcf735ba6ce9a9544352))
+
+* major: now ([`20b968e`](https://github.com/felixblochwitz/semantic_test/commit/20b968e497beac852ff9c67e6aeb54fd989e4e64))
+
 ## v1.1.0 (2024-09-22)
 
-### Major
+### Unknown
 
 * major: update ([`4a15d53`](https://github.com/felixblochwitz/semantic_test/commit/4a15d538d6bab78e9fa2831872e30ff98fa631c0))
+
+* minor: change pyproject.toml ([`eec9275`](https://github.com/felixblochwitz/semantic_test/commit/eec9275c25def40b077796532e4516e712b7492c))
+
+* major bump level ([`473b32a`](https://github.com/felixblochwitz/semantic_test/commit/473b32a3685d243cd7a3470c0ad50d36ec6415cd))
 
 * major: changed parser ([`425a162`](https://github.com/felixblochwitz/semantic_test/commit/425a16238065bc898b7443d52ddf2fb4ce8f6671))
 
@@ -14,17 +40,9 @@
 
 * major: andere reihenfolge ([`13ba11d`](https://github.com/felixblochwitz/semantic_test/commit/13ba11dbdd77b3d0e18ba5a2e123e3fb9b5d5356))
 
-### Minor
-
-* minor: change pyproject.toml ([`eec9275`](https://github.com/felixblochwitz/semantic_test/commit/eec9275c25def40b077796532e4516e712b7492c))
-
-### Unknown
-
-* major bump level ([`473b32a`](https://github.com/felixblochwitz/semantic_test/commit/473b32a3685d243cd7a3470c0ad50d36ec6415cd))
-
 ## v1.0.0 (2024-09-22)
 
-### Major
+### Unknown
 
 * major: andere reihenfolge ([`84a7e0c`](https://github.com/felixblochwitz/semantic_test/commit/84a7e0c750ea866afd763085a2c8c09e32ad4d13))
 
@@ -36,16 +54,12 @@
 
 * major: this is major ([`68e5e92`](https://github.com/felixblochwitz/semantic_test/commit/68e5e921a4868ce98700c66a6d4c6a5edb100476))
 
-### Unknown
-
 * what now ([`4824086`](https://github.com/felixblochwitz/semantic_test/commit/482408691d6a89abbb424ec3715b3db73c165e24))
 
 ## v0.0.0 (2024-09-22)
 
-### Major
+### Unknown
 
 * major: first commit ([`5a09ba9`](https://github.com/felixblochwitz/semantic_test/commit/5a09ba9bf6f8bbfe735b2ffa2113906d7992096d))
-
-### Unknown
 
 * Initial commit ([`f7d6e20`](https://github.com/felixblochwitz/semantic_test/commit/f7d6e205d861d1320c3e1343ed4ff6774c852950))
