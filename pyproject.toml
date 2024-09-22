@@ -50,10 +50,10 @@ env = "GIT_COMMIT_AUTHOR"
 default = "semantic-release <semantic-release>"
 
 [tool.semantic_release.commit_parser_options]
-allowed_tags = ["major", "MAJOR", "minor", "MINOR", "patch", "PATCH"]
-major_tags = ["major", "MAJOR"]
-minor_tags = ["minor", "MINOR"]
-patch_tags = ["patch", "PATCH"]
+allowed_types = ["major", "MAJOR", "minor", "MINOR", "patch", "PATCH"]
+major_types = ["major", "MAJOR"]
+minor_types = ["minor", "MINOR"]
+patch_types = ["patch", "PATCH"]
 default_bump_level = 0
 
 [tool.semantic_release.remote]
