@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## v1.1.0 (2024-09-22)
+
+### Major
+
+* major: update ([`4a15d53`](https://github.com/felixblochwitz/semantic_test/commit/4a15d538d6bab78e9fa2831872e30ff98fa631c0))
+
+* major: changed parser ([`425a162`](https://github.com/felixblochwitz/semantic_test/commit/425a16238065bc898b7443d52ddf2fb4ce8f6671))
+
+* major: andere reihenfolge ([`52e3061`](https://github.com/felixblochwitz/semantic_test/commit/52e3061c1e00ee0481481a52514ddc0be7ae04da))
+
+* major: andere reihenfolge ([`66fe8a6`](https://github.com/felixblochwitz/semantic_test/commit/66fe8a64c9ec991d3a31ee59cef7378aa0ea4f55))
+
+* major: andere reihenfolge ([`13ba11d`](https://github.com/felixblochwitz/semantic_test/commit/13ba11dbdd77b3d0e18ba5a2e123e3fb9b5d5356))
+
+### Minor
+
+* minor: change pyproject.toml ([`eec9275`](https://github.com/felixblochwitz/semantic_test/commit/eec9275c25def40b077796532e4516e712b7492c))
+
+### Unknown
+
+* major bump level ([`473b32a`](https://github.com/felixblochwitz/semantic_test/commit/473b32a3685d243cd7a3470c0ad50d36ec6415cd))
+
 ## v1.0.0 (2024-09-22)
 
 ### Major
