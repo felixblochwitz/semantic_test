@@ -45,7 +45,7 @@ class MyAngularParserOptions(ParserOptions):
         "major",
         "MAJOR",
     )
-    major_tags: Tuple[str, ...] = ("major", )
+    major_tags: Tuple[str, ...] = ("major", "MAJOR", )
     minor_tags: Tuple[str, ...] = ("minor",)
     patch_tags: Tuple[str, ...] = ("patch",)
     default_bump_level: LevelBump = LevelBump.NO_RELEASE
