@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v8.0.0 (2024-09-22)
+
+### Major (breaking) changes
+
+* major: now??? ([`b1ca458`](https://github.com/felixblochwitz/semantic_test/commit/b1ca458d7087767ba737305ab8fbddea3e3c35d2))
+
+* MAJOR: now??? ([`a58f6d2`](https://github.com/felixblochwitz/semantic_test/commit/a58f6d2a85f4fe46e853ecf52790c2dbb712e883))
+
+### Minor (non-breaking) changes
+
+* MINOR: now??? ([`bc46141`](https://github.com/felixblochwitz/semantic_test/commit/bc46141efc0bc16a78fc3b0718724dfe94548884))
+
+* minor: now??? ([`257dd7c`](https://github.com/felixblochwitz/semantic_test/commit/257dd7cbcd3968d94bef93eed4823d87f4cbe814))
+
 ## v7.0.0 (2024-09-22)
 
 ### Major (breaking) changes
@@ -26,11 +40,9 @@
 
 * major: change this shit ([`afec463`](https://github.com/felixblochwitz/semantic_test/commit/afec463b1191cd779329eab39ebf362e2ba5ecd6))
 
-* MAJOR: change parser completely ([`3f17ab2`](https://github.com/felixblochwitz/semantic_test/commit/3f17ab21f92a9696f9aa6281cb1e007de2e968e1))
-
-### None
-
 * Major: change parser ([`a339c43`](https://github.com/felixblochwitz/semantic_test/commit/a339c43fa083b55a169c68b8d54a56d15121e580))
+
+* MAJOR: change parser completely ([`3f17ab2`](https://github.com/felixblochwitz/semantic_test/commit/3f17ab21f92a9696f9aa6281cb1e007de2e968e1))
 
 ## v4.2.0 (2024-09-22)
 
@@ -41,8 +53,6 @@
 ### Minor (non-breaking) changes
 
 * minor: remove repo_dir ([`c21593f`](https://github.com/felixblochwitz/semantic_test/commit/c21593f2bf7297879f1d0946fad8b5eda1a2c4dd))
-
-### None
 
 * MINOR: updating parser ([`cf764ec`](https://github.com/felixblochwitz/semantic_test/commit/cf764ecb3953286f9400fe5ae0656e41346fca44))
 
