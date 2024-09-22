@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v8.0.1 (2024-09-22)
+
+### Non-breaking (bug) fix
+
+* PATCH: now??? ([`25957d1`](https://github.com/felixblochwitz/semantic_test/commit/25957d10ee97b5b5057742b7bdced961503a77c0))
+
 ## v8.0.0 (2024-09-22)
 
 ### Major (breaking) changes
