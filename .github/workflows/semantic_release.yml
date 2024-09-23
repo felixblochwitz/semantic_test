@@ -31,9 +31,12 @@ jobs:
         run: |
           python -c "import custom_parser; print('Custom parser loaded successfully')"
 
-      - name: Python Semantic Release
-        uses: python-semantic-release/python-semantic-release@v9.8.8
-        env:
-          GH_TOKEN: ${{ secrets.ACTION_TOKEN }}
-        with:
-          github_token: ${{ secrets.ACTION_TOKEN }}
+      - name: Apply versioning
+        run: semantic-release version
+
+      #      - name: Python Semantic Release
+      #        uses: python-semantic-release/python-semantic-release@v9.8.8
+      #        env:
+      #          GH_TOKEN: ${{ secrets.ACTION_TOKEN }}
+      #        with:
+      #          github_token: ${{ secrets.ACTION_TOKEN }}
