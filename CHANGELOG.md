@@ -2,6 +2,17 @@
 
 
 
+## v9.0.0 (2024-09-23)
+
+### Major (breaking) changes
+
+* major: this will be major ([`de28c3e`](https://github.com/felixblochwitz/semantic_test/commit/de28c3ec98c5c33bfa709e353e08c08b08720d83))
+
+### Unknown
+
+* will this be major ([`e985b3f`](https://github.com/felixblochwitz/semantic_test/commit/e985b3f4328591868465e6579378fa4d60d85a48))
+
+
 ## v8.1.0 (2024-09-23)
 
 ### Minor (non-breaking) changes
