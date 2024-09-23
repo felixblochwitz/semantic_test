@@ -25,7 +25,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install package for custom parser
-        run: pip install -U pip && pip install .
+        run: pip install -U pip && pip install -e .
 
       - name: Python Semantic Release
         uses: python-semantic-release/python-semantic-release@v9.8.8
