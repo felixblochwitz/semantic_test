@@ -3,6 +3,7 @@ name = "semantic_release_test"
 version = "0.0.0"
 dependencies = [
     "pydantic>=1.10,<2.0",
+    "python-semantic-release",
 ]
 
 
