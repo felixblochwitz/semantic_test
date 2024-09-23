@@ -1,0 +1,27 @@
+name: Semantic Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    concurrency: release
+    permissions:
+      id-token: write
+      contents: write
+
+    steps:
+      - users: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: {{ secrets.ACTION_TOKEN }}
+
+      - name: Python Semantic Release
+        uses: python-semantic-release/python-semantic-release@v9.8.8
+        env:
+          GH_TOKEN: {{ secrets.ACTION_TOKEN }}
+        with:
+          github_token: {{ secrets.ACTION_TOKEN }}
