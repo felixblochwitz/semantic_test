@@ -2,6 +2,17 @@
 
 
 
+## v9.1.2 (2024-09-23)
+
+### Non-breaking (bug) fix
+
+* PATCH: only trigger on merge (#4) ([`e5993c0`](https://github.com/felixblochwitz/semantic_test/commit/e5993c0fdb124fd3cebb12ea72f62633cf6104a3))
+
+### Unknown
+
+* only trigger on merge ([`a2e1bd2`](https://github.com/felixblochwitz/semantic_test/commit/a2e1bd201821149612d307bf4a2a83b2fc935af0))
+
+
 ## v9.1.1 (2024-09-23)
 
 ### Non-breaking (bug) fix
