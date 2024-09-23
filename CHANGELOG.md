@@ -2,6 +2,29 @@
 
 
 
+## v10.0.0 (2024-09-23)
+
+### Major (breaking) changes
+
+* major: add note ([`bfc914d`](https://github.com/felixblochwitz/semantic_test/commit/bfc914d8933aeef92ef8b4163361e33354da2ea7))
+
+### Minor (non-breaking) changes
+
+* minor: add note ([`7958a9c`](https://github.com/felixblochwitz/semantic_test/commit/7958a9cec4da74bbfa7d759f32ec96026b95d353))
+
+### Non-breaking (bug) fix
+
+* patch: add note ([`20fb2a6`](https://github.com/felixblochwitz/semantic_test/commit/20fb2a676ebfffa29fce45b262fc5b6b9b2d36c0))
+
+### Unknown
+
+* Test 1 (#8) ([`6b43471`](https://github.com/felixblochwitz/semantic_test/commit/6b43471dc92d40cf082195e939af32f222768437))
+
+* add on merge condition (#6) ([`960ec87`](https://github.com/felixblochwitz/semantic_test/commit/960ec877bc3c82309a3dc45bd70edc73dae7c731))
+
+* add on merge condition ([`4fad85e`](https://github.com/felixblochwitz/semantic_test/commit/4fad85e329b64b96f2595a03223b88060af41e5b))
+
+
 ## v9.1.2 (2024-09-23)
 
 ### Non-breaking (bug) fix
