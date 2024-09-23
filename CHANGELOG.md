@@ -2,6 +2,23 @@
 
 
 
+## v11.0.1 (2024-09-23)
+
+### Non-breaking (bug) fix
+
+* PATCH: removing unneeded file (#13)
+
+removing unneeded file ([`5c67974`](https://github.com/felixblochwitz/semantic_test/commit/5c679747182aec1a61626fa5114f0e28e3694661))
+
+### Unknown
+
+* Test 5 (#12)
+
+* minor: commit one
+
+* patch: commit two ([`1b01d08`](https://github.com/felixblochwitz/semantic_test/commit/1b01d087ccdc02584c2b50e8123c637842c19506))
+
+
 ## v11.0.0 (2024-09-23)
 
 ### Major (breaking) changes

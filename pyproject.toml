@@ -1,6 +1,6 @@
 [project]
 name = "semantic_release_test"
-version = "11.0.0"
+version = "11.0.1"
 dependencies = [
     "pydantic>=1.10,<2.0",
     "python-semantic-release",
