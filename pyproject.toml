@@ -1,4 +1,5 @@
 # will this be major??? lolololol
+# now it will definitely be major
 [project]
 name = "semantic_release_test"
 version = "8.1.0"
