@@ -2,6 +2,17 @@
 
 
 
+## v11.0.0 (2024-09-23)
+
+### Major (breaking) changes
+
+* MAJOR: cleaning up that shit (#11) ([`e18835f`](https://github.com/felixblochwitz/semantic_test/commit/e18835fb45ab9909599556336ea30f3df5c46f6c))
+
+### Non-breaking (bug) fix
+
+* patch: cleaning up that shit ([`736be60`](https://github.com/felixblochwitz/semantic_test/commit/736be60de0577512d7b4ab0d7cd234a9acca2fe5))
+
+
 ## v10.2.0 (2024-09-23)
 
 ### Minor (non-breaking) changes
