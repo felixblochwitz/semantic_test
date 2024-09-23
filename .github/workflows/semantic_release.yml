@@ -32,7 +32,7 @@ jobs:
           python -c "import custom_parser; print('Custom parser loaded successfully')"
 
       - name: Apply versioning
-        run: semantic-release version
+        run: semantic-release version --no-vcs-release
 
       #      - name: Python Semantic Release
       #        uses: python-semantic-release/python-semantic-release@v9.8.8
