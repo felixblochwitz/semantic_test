@@ -27,6 +27,10 @@ jobs:
       - name: Install package for custom parser
         run: pip install -U pip && pip install -e .
 
+      - name: Verify custom parser installation
+        run: |
+          python -c "import custom_parser; print('Custom parser loaded successfully')"
+
       - name: Python Semantic Release
         uses: python-semantic-release/python-semantic-release@v9.8.8
         env:
