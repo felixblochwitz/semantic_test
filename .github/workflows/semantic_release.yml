@@ -35,10 +35,3 @@ jobs:
         run: semantic-release version --no-vcs-release
         env:
           GH_TOKEN: ${{ secrets.ACTION_TOKEN }}
-
-      #      - name: Python Semantic Release
-      #        uses: python-semantic-release/python-semantic-release@v9.8.8
-      #        env:
-      #          GH_TOKEN: ${{ secrets.ACTION_TOKEN }}
-      #        with:
-      #          github_token: ${{ secrets.ACTION_TOKEN }}
