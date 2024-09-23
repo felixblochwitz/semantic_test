@@ -2,6 +2,23 @@
 
 
 
+## v9.1.0 (2024-09-23)
+
+### Minor (non-breaking) changes
+
+* MINOR: reject this please (#1) ([`9c59b4a`](https://github.com/felixblochwitz/semantic_test/commit/9c59b4a0efe80ffbc49c4b118304c847ad7585cd))
+
+### Non-breaking (bug) fix
+
+* PATCH: workflow update (#2) ([`6bafbc5`](https://github.com/felixblochwitz/semantic_test/commit/6bafbc5df3f1ef39201abd4084c443152c5e3b3f))
+
+### Unknown
+
+* workflow update ([`b7bdf72`](https://github.com/felixblochwitz/semantic_test/commit/b7bdf72b12bfeda1665eb9957ed7d21892cc6cf6))
+
+* reject this please ([`95a73bb`](https://github.com/felixblochwitz/semantic_test/commit/95a73bb45138d1c9a6734be241307ca1d82a9e40))
+
+
 ## v9.0.1 (2024-09-23)
 
 ### Non-breaking (bug) fix
