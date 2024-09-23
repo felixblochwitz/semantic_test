@@ -1,2 +1,3 @@
 PATCH
 MINOR
+MAJOR (maybe)
