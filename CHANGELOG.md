@@ -2,6 +2,17 @@
 
 
 
+## v9.0.1 (2024-09-23)
+
+### Non-breaking (bug) fix
+
+* patch now this works ([`0d685af`](https://github.com/felixblochwitz/semantic_test/commit/0d685aff79dd510afc91a0cf9ad0a7f83eb5e00d))
+
+### Unknown
+
+* this is a minor change, but important none the less ([`6b396bc`](https://github.com/felixblochwitz/semantic_test/commit/6b396bcd05d3e12b96bf352d144ffd512ba847f8))
+
+
 ## v9.0.0 (2024-09-23)
 
 ### Major (breaking) changes
