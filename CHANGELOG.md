@@ -2,6 +2,17 @@
 
 
 
+## v9.1.1 (2024-09-23)
+
+### Non-breaking (bug) fix
+
+* PATCH: clean up workflow file (#3) ([`0c37e2b`](https://github.com/felixblochwitz/semantic_test/commit/0c37e2b96e8471498a8a72ac9003078a0b7a03ab))
+
+### Unknown
+
+* clean up workflow file ([`7d791da`](https://github.com/felixblochwitz/semantic_test/commit/7d791dad2ce274ea4d7cb2895fcaa5c1017a59a5))
+
+
 ## v9.1.0 (2024-09-23)
 
 ### Minor (non-breaking) changes
